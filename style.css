@@ -190,7 +190,9 @@ nav input[type=text] {
     border-radius: 15px;
 }
 
-
+.aboutMeDetails {
+    display: flex;
+}
 
 .projects figcaption {
     color: white;
